@@ -2,10 +2,11 @@
 
 MVA ENS Paris Saclay - Homeworks and Lab sessions for Computational Statistics
 
-\begin{itemize}
-\item TP1 : Reminder on Markov chains - Stochastic Gradient Descent
-\item TP2 : Expectation-Maximisation algorithm - Importance Sampling
-\item TP4 : Improve the Metropolis-Hastings algorithm
-\end{itemize}
+TP1 : Reminder on Markov chains - Stochastic Gradient Descent
+
+TP2 : Expectation-Maximisation algorithm - Importance Sampling
+
+TP4 : Improve the Metropolis-Hastings algorithm
+
 
 Romane Barra romane.barra@gmail.com
